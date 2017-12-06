@@ -1,8 +1,10 @@
 #' Format T-Test
 #'
-#' Formats a t-test object to look gorgeous.
+#' Formats a t-test object to look nicer.
 #'
 #' @param fit a t-test object
+#' @param a data frame
+#' @param rounding the number of decimal place for the output
 #' @param rounding the number of decimal places for the output
 #'
 #' @return a data.frame with useful t-test information
